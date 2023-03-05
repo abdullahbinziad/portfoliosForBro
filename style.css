@@ -31,3 +31,10 @@
     background-size: 560px;
     
 }
+
+.pointer::before{
+    content: url(./img//pointer.png);
+    display: inline-block;
+    padding-right: 15px;
+    padding-top: 5px;
+}
