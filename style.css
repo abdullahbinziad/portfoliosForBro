@@ -23,3 +23,11 @@
     background-position-y: center;
     
 }
+.portfolio-shape-bg-left{
+    background: url(./img/circle.png);
+    background-repeat: no-repeat;
+    background-position-x: -114px;
+    background-position-y: 8px;
+    background-size: 560px;
+    
+}
